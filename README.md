@@ -16,6 +16,9 @@
 ### Labs
 
 - Microsoft Learn AZ-104 Labs: https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/
+- Practicing Azure resources with Azure Sandbox:
+    - https://learn.microsoft.com/en-us/azure/architecture/guide/azure-sandbox/azure-sandbox
+    - https://github.com/Azure-Samples/azuresandbox
 
 ### Practice Exams
 
